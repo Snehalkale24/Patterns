@@ -1,2 +1,5 @@
 # Patterns
-Pattern questions
+Pattern questions--code
+
+<hr>
+
