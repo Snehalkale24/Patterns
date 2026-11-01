@@ -6,7 +6,7 @@ public class ex4{
 		{
 		 for(int j=5;j>=1;j--)
 		 {
-		 	System.out.print(j);
+		 	System.out.print(i);
 		 }
 		 System.out.println();
 		}
