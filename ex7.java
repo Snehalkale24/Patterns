@@ -9,4 +9,8 @@ public class ex7{
 			}
 		}
 	}
-}
+}//AAAAA
+//BBBBBB
+//CCCCC
+//DDDDD
+//EEEEE
