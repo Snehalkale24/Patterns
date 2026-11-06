@@ -20,5 +20,8 @@
 
 import java.util.*;
 public class ex8{
-	
+	for(int i=1;i<=5;i++)
+	{
+		
+	}
 }
