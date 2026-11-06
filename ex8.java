@@ -17,3 +17,8 @@
 // //123
 // //1234
 // //12345
+
+import java.util.*;
+public class ex8{
+	
+}
