@@ -27,7 +27,7 @@ public class ex9{
 			System.out.println();
 			for(int j=i;j>=1;j--)
 			{
-				
+				System.out.print(j);
 			}
 		}
 	}
