@@ -24,7 +24,11 @@ public class ex9{
 	{
 		for(int i=1;i<=5;i++)
 		{
-			
+			System.out.println();
+			for(int j=i;j>=1;j--)
+			{
+				
+			}
 		}
 	}
 }
