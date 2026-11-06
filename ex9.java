@@ -19,3 +19,6 @@
 // //54321
 
 import java.util.*;
+public class ex9{
+	
+}
