@@ -25,7 +25,10 @@ public class ex9
 		for(int i=0;i<=5;i++)
 		{
 			System.out.println();
-			
+			for(int j=i;j>=i;j++)
+			{
+				Sy
+			}
 		}
 	}
 }
