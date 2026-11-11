@@ -30,5 +30,5 @@ public class ex9
 				System.out.print(j);
 			}
 		}
-	}s
+	}
 }
